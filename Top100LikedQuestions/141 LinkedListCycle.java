@@ -1,6 +1,6 @@
 package Top100LikedQuestions;
 
-public class HasCycle {
+public class LinkedListCycle {
 
 	public static boolean hasCycle(ListNode head) {
 		if (head == null)
